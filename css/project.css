@@ -53,7 +53,7 @@ html {
 /******/
 .big_container_1 {
   width: 100vw;
-  background-image: url(/images/background.png);
+  background-image: url(images/background.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -513,7 +513,7 @@ html {
 /*big_container5*/
 /******/
 .big_container_5 {
-  background-image: url(/images/background2.png);
+  background-image: url(images/background2.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
